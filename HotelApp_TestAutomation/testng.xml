@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test NG Regression Test Suite" verbose="1" parallel="false" >
+
+<test name="Test01"><classes>
+<class name="tests.TestNGTest" />
+</classes>
+</test>
+<test name="Test02">
+<classes>
+<class name="tests.VerificationPointTestNGTest" />
+</classes>
+</test>
+</suite>

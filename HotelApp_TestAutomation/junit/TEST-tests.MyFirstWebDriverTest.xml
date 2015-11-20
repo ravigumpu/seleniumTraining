@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="AUD32706NH" name="tests.MyFirstWebDriverTest" tests="1" time="6.641" timestamp="2015-10-12T02:22:43">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows XP" />
+    <property name="env.ZENWORKS_HOME" value="C:\Program Files\Novell\ZENworks" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_67\jre\classes" />
+    <property name="env.COMPUTERNAME" value="AUD32706NH" />
+    <property name="env.ALLUSERSPROFILE" value="C:\Documents and Settings\All Users" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502" />
+    <property name="env.WINDOWS_LOGIN" value="0" />
+    <property name="java.runtime.version" value="1.7.0_67-b01" />
+    <property name="env.HOMEPATH" value="\" />
+    <property name="user.name" value="GumpuR" />
+    <property name="user.language" value="en" />
+    <property name="ant.file.type.HotelApp_TestAutomation" value="file" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="HotelApp_TestAutomation" />
+    <property name="java.version" value="1.7.0_67" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 58 Stepping 9, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\DOCUME~1\GumpuR\LOCALS~1\Temp" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="env.NWUSERNAME" value="GumpuR" />
+    <property name="user.country" value="AU" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_67\jre" />
+    <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Documents and Settings\GumpuR\Application Data" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\build.xml" />
+    <property name="os.version" value="5.1" />
+    <property name="env.GIT_HOME" value="C:\Program Files\Git" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="24.65-b04" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Documents and Settings\GumpuR" />
+    <property name="ant.library.dir" value="C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.7.0_67" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\DOCUME~1\GumpuR\LOCALS~1\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="env.JMETER_HOME" value="C:\Documents and Settings\GumpuR\Desktop\apache-jmeter-2.8\bin" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Documents and Settings\GumpuR" />
+    <property name="target" value="1.7" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.CLASSPATH" value="C:\selenium-2.5.0;C:\Documents and Settings\Administrator\workspace\webdriver\src;C:\Documents and Settings\Administrator\.m2\repository" />
+    <property name="env.M2_HOME" value="C:\apache-maven-3.2.3" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="8" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin/client;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/lib/i386;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Documents and Settings\All Users\Application Data\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\apache-maven-3.2.3\bin;C:\Program Files\Git\bin;C:\Program Files\Enterprise Vault\EVClient\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\WINDOWS\system32\nls;C:\WINDOWS\system32\nls\ENGLISH;C:\Program Files\Novell\ZENworks\bin;C:\Development\BuildSystem\ant\1.7.0\bin;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Documents and Settings\GumpuR\Application Data\npm;C:\Program Files\eclipse;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\bin;C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\Lib\ant-junit.jar;C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\Lib\junit-4.10.jar;C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\Lib\jxl-2.4.2.jar;C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\Lib\selenium-server-standalone-2.47.1.jar;C:\Program Files\eclipse\plugins\org.junit_4.11.0.v201303080030\junit.jar;C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-launcher.jar;C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar;C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit.jar;C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.MyFirstWebDriverTest filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\junit\TEST-tests.MyFirstWebDriverTest.xml crashfile=C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\junitvmwatcher3207944690708911454.properties propsfile=C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\junit5669329629564915493.properties" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.2 compiled on July 8 2013" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.LOGONSERVER" value="\\AUD32706NH" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.os.patch.level" value="Service Pack 3" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502" />
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\GumpuR\LOCALS~1\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="3a09" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="ant.file.HotelApp_TestAutomation" value="C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation\build.xml" />
+    <property name="env.LOG_PROFILE" value="C:\Documents and Settings\GumpuR\Local Settings\Application Data\objective\Logging" />
+    <property name="os.arch" value="x86" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation" />
+    <property name="env.MAVEN_HOME" value="C:\apache-maven-3.2.3" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.PSC1;.PSC1" />
+    <property name="env.Path" value="C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin/client;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_67/bin/../jre/lib/i386;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Program Files\Git\git-cheetah\..\bin;C:\Documents and Settings\All Users\Application Data\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\apache-maven-3.2.3\bin;C:\Program Files\Git\bin;C:\Program Files\Enterprise Vault\EVClient\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\WINDOWS\system32\nls;C:\WINDOWS\system32\nls\ENGLISH;C:\Program Files\Novell\ZENworks\bin;C:\Development\BuildSystem\ant\1.7.0\bin;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Documents and Settings\GumpuR\Application Data\npm;C:\Program Files\eclipse;" />
+    <property name="basedir" value="C:\Documents and Settings\GumpuR\workspace2\HotelApp_TestAutomation" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar" />
+    <property name="env.USERNAME" value="GumpuR" />
+    <property name="source" value="1.7" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="AUD32706NH" />
+    <property name="env.NWLANGUAGE" value="ENGLISH" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="ant.project.invoked-targets" value="MyFirstWebDriverTest,build,junitreport" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="tests.MyFirstWebDriverTest" name="testMyFirstWebDriver" time="6.516" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test NG Regression Test Suite" duration-ms="11073" started-at="2015-10-15T04:27:49Z" finished-at="2015-10-15T04:28:00Z">
+    <groups>
+    </groups>
+    <test name="Test01" duration-ms="7205" started-at="2015-10-15T04:27:49Z" finished-at="2015-10-15T04:27:56Z">
+      <class name="tests.TestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.TestNGTest@1862621]" name="setUp" is-config="true" duration-ms="3837" started-at="2015-10-15T15:27:49Z" finished-at="2015-10-15T15:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMyFirstWebDriver()[pri:0, instance:tests.TestNGTest@1862621]" name="testMyFirstWebDriver" duration-ms="2667" started-at="2015-10-15T15:27:53Z" finished-at="2015-10-15T15:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyFirstWebDriver -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.TestNGTest@1862621]" name="tearDown" is-config="true" duration-ms="686" started-at="2015-10-15T15:27:55Z" finished-at="2015-10-15T15:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestNGTest -->
+    </test> <!-- Test01 -->
+    <test name="Test02" duration-ms="3852" started-at="2015-10-15T04:27:56Z" finished-at="2015-10-15T04:28:00Z">
+      <class name="tests.VerificationPointTestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.VerificationPointTestNGTest@a0fbd6]" name="setUp" is-config="true" duration-ms="2261" started-at="2015-10-15T15:27:56Z" finished-at="2015-10-15T15:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMyFirstWebDriver()[pri:0, instance:tests.VerificationPointTestNGTest@a0fbd6]" name="testMyFirstWebDriver" duration-ms="1279" started-at="2015-10-15T15:27:58Z" finished-at="2015-10-15T15:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyFirstWebDriver -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.VerificationPointTestNGTest@a0fbd6]" name="tearDown" is-config="true" duration-ms="312" started-at="2015-10-15T15:28:00Z" finished-at="2015-10-15T15:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.VerificationPointTestNGTest -->
+    </test> <!-- Test02 -->
+  </suite> <!-- Test NG Regression Test Suite -->
+</testng-results>
